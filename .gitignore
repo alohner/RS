@@ -222,3 +222,5 @@ pip-log.txt
 DerivedDataCache/
 Intermediate/
 Saved/
+
+Content/Blueprints/MyGame.uasset
