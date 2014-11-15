@@ -2,11 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.5",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "GitSourceControl",
-			"Enabled": true
-		}
-	]
+	"Description": ""
 }
